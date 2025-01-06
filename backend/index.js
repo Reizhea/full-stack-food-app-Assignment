@@ -17,7 +17,7 @@ app.use('/auth', authRoutes);
 app.use('/menu', menuRoutes);
 app.use('/order', orderRoutes);
 
-app.get('/', ( es) => {
+app.get('/', (req, res) => {
     res.send('Welcome to GrubSpot API!');
 });
 
