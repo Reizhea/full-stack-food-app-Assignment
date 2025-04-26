@@ -1,11 +1,11 @@
-Full-Stack Food App 🍽️
+Full-Stack Food App
 -----------------------
 
 A complete food ordering web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project is designed to provide a seamless experience for users to order food and for admins to manage menus, users, and orders.
 
 * * * * *
 
-Features 🚀
+Features
 -----------
 
 ### User Features
@@ -23,7 +23,7 @@ Features 🚀
 
 * * * * *
 
-Tech Stack 💻
+Tech Stack
 -------------
 
 ### Frontend
@@ -43,7 +43,7 @@ Tech Stack 💻
 
 * * * * *
 
-Environment Variables 🔐
+Environment Variables 
 ------------------------
 
 Create a `.env` file in the root directories of both the frontend and backend. Add the following variables:
@@ -110,7 +110,7 @@ Any assumptions, challenges, or limitations faced during development:
 
 * * * * *
 
-Author ✍️
+Author
 ---------
 
 **Nawang Dorjee**
