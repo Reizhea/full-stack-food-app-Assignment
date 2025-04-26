@@ -60,7 +60,7 @@ PORT=<Backend Port, e.g., 5000>`
 
 * * * * *
 
-Installation & Setup ⚙️
+Installation & Setup 
 -----------------------
 
 ### Clone the repository:
